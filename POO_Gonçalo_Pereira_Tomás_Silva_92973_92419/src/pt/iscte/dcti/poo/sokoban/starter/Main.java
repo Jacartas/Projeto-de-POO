@@ -12,6 +12,7 @@ public class Main {
 		ImageMatrixGUI.getInstance().registerObserver(s);
 		ImageMatrixGUI.getInstance().go();
 
+
 	}
 
 }
